@@ -1,6 +1,10 @@
 <div align="center">
   <h1>🟢Tabaco V2 Discord Multitool🟢</h1>
         <p>🟢Discord Tool made bye a rookie python scripter🟢<p>
+   
+  
+  <p>🚧Warning This is still under construction we are making a mac supported version for Tabaco But Due To discords new security fetures it might take some time please hold your horses🚧 <p>
+  
   <p>✏️For Educational Purpose Only✏️</p>
   <img src="https://img.shields.io/badge/dynamic/json?color=limegreen&labelColor=black&label=Downloads&query=$[0].assets[0].download_count&suffix=%20total&url=https://api.github.com/repos/GoobGub/Tabaco-V2-Discord-Multitool/releases" alt="Downloads" style="max-width: 100%; font-size: 24px;">
 </div>
